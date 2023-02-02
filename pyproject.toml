@@ -1,7 +1,8 @@
 [tool.poetry]
 name = "pytrader"
 version = "0.1.0"
-description = ""
+description = "Tensorflow predictive model for stock market behavior"
+license = "GPL-3.0-or-later"
 authors = ["Brandon Egger <me@brandonegger.com>"]
 readme = "README.md"
 
